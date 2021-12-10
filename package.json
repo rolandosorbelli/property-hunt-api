@@ -4,5 +4,8 @@
   "description": "An API that gathers data from the top properties websites in the UK.",
   "main": "index.js",
   "author": "Rolando Sorbelli",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  }
 }
